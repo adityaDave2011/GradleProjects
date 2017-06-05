@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloHibernate.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloHibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloHibernate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloHibernate_main.iml" group="HelloHibernate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloHibernate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloHibernate_test.iml" group="HelloHibernate" />
+    </modules>
+  </component>
+</project>

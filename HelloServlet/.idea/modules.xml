@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloServlet.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloServlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloServlet_main.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloServlet_main.iml" group="HelloServlet" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloServlet_test.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloServlet_test.iml" group="HelloServlet" />
+    </modules>
+  </component>
+</project>
